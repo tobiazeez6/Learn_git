@@ -9,7 +9,6 @@
 ![photo3](https://github.com/tobiazeez6/Learn_git/blob/master/Images/PHOTO%203.PNG?raw=true)
 
 ### 4 Initialize an empty git repository.
-
 ![photo4](https://github.com/tobiazeez6/Learn_git/blob/master/Images/PHOTO%204+.PNG?raw=true)    
 
 ![photo4+](https://github.com/tobiazeez6/Learn_git/blob/master/Images/PHOTO%204+.PNG?raw=true)
@@ -28,7 +27,9 @@
 
 ### 9 Add fourth.txt to the staging area.
 ![photo9](https://github.com/tobiazeez6/Learn_git/blob/master/Images/PHOTO%209.PNG?raw=true)
+
 ### 10 Commit with the message "adding fourth.txt"
+![photo10](https://github.com/tobiazeez6/Learn_git/blob/master/Images/PHOTO%2010.PNG?raw=true)
 
 ### 11 Remove the third.txt file.
 
