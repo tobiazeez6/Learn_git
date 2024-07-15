@@ -21,13 +21,13 @@
 ![photo6](https://github.com/tobiazeez6/Learn_git/blob/master/Images/PHOTO%206.PNG?raw=true)
 
 ### 7 Check out your commit with git log.
-![photo6](https://github.com/tobiazeez6/Learn_git/blob/master/Images/PHOTO%207.PNG?raw=true)
+![photo7](https://github.com/tobiazeez6/Learn_git/blob/master/Images/PHOTO%207.PNG?raw=true)
 
 ### 8 Create another file called fourth.txt.
-![photo6](https://github.com/tobiazeez6/Learn_git/blob/master/Images/PHOTO%208.PNG?raw=true)
+![photo8](https://github.com/tobiazeez6/Learn_git/blob/master/Images/PHOTO%208.PNG?raw=true)
 
 ### 9 Add fourth.txt to the staging area.
-
+![photo9](https://github.com/tobiazeez6/Learn_git/blob/master/Images/PHOTO%209.PNG?raw=true)
 ### 10 Commit with the message "adding fourth.txt"
 
 ### 11 Remove the third.txt file.
