@@ -15,7 +15,7 @@
 ![photo4+](https://github.com/tobiazeez6/Learn_git/blob/master/Images/PHOTO%204+.PNG?raw=true)
 
 ### 5 Add third.txt to the staging area.
-
+![photo5](https://github.com/tobiazeez6/Learn_git/blob/master/Images/PHOTO%205.PNG?raw=true)
 
 ### 6 Commit with the message "adding third.txt".
 
