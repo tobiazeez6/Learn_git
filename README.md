@@ -32,7 +32,7 @@
 ![photo10](https://github.com/tobiazeez6/Learn_git/blob/master/Images/PHOTO%2010.PNG?raw=true)
 
 ### 11 Remove the third.txt file.
-
+![photo11](https://github.com/tobiazeez6/Learn_git/blob/master/Images/PHOTO%2011.PNG?raw=true)
 
 ### 12 Add this change to the staging area. (Using the command "git add . "
 
