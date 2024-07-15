@@ -6,7 +6,7 @@
 ![photo2](https://github.com/tobiazeez6/Learn_git/blob/master/Images/PHOTO%202.PNG?raw=true)
 
 ### 3 Create a file called third.txt.
-
+![photo3]https://github.com/tobiazeez6/Learn_git/blob/master/Images/PHOTO%203.PNG?raw=true
 
 ### 4 Initialize an empty git repository.
 
