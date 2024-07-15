@@ -18,7 +18,7 @@
 ![photo5](https://github.com/tobiazeez6/Learn_git/blob/master/Images/PHOTO%205.PNG?raw=true)
 
 ### 6 Commit with the message "adding third.txt".
-
+![photo6](https://github.com/tobiazeez6/Learn_git/blob/master/Images/PHOTO%206.PNG?raw=true)
 
 ### 7 Check out your commit with git log.
 
