@@ -38,7 +38,7 @@
 ![photo12](https://github.com/tobiazeez6/Learn_git/blob/master/Images/PHOTO%2012.PNG?raw=true)
 
 ### 13 Commit with the message "removing third.txt".
-![photo13](https://github.com/tobiazeez6/Learn_git/blob/master/Images/PHOTO%2013.PNG?raw=true
+![photo13](https://github.com/tobiazeez6/Learn_git/blob/master/Images/PHOTO%2013.PNG?raw=true)
 
 ### 14 Check out your commits using git log.
 
