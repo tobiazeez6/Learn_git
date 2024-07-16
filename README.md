@@ -44,7 +44,7 @@
 ![photo14](https://github.com/tobiazeez6/Learn_git/blob/master/Images/PHOTO%2014.PNG?raw=true)
 
 ### 15 Change your global settings to core.pager=cat - you can read more about that here.
-
+![photo15](https://github.com/tobiazeez6/Learn_git/blob/master/Images/PHOTO%2015.PNG?raw=true)
 
 ### 16 Write the appropriate command to list all the global configurations for git on your machine.
 
