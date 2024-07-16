@@ -47,6 +47,8 @@
 ![photo15](https://github.com/tobiazeez6/Learn_git/blob/master/Images/PHOTO%2015.PNG?raw=true)
 
 ### 16 Write the appropriate command to list all the global configurations for git on your machine.
+![photo16](https://github.com/tobiazeez6/Learn_git/blob/master/Images/PHOTO%2016.PNG?raw=true)
+
 
 ### 17 You can type git cgitonfig --global to find out how to do this.
 
