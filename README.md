@@ -41,7 +41,7 @@
 ![photo13](https://github.com/tobiazeez6/Learn_git/blob/master/Images/PHOTO%2013.PNG?raw=true)
 
 ### 14 Check out your commits using git log.
-
+![photo14](https://github.com/tobiazeez6/Learn_git/blob/master/Images/PHOTO%2014.PNG?raw=true)
 
 ### 15 Change your global settings to core.pager=cat - you can read more about that here.
 
